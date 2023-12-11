@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data Analysis and Data Visualization Techniques**
 
-- 📫 How to reach me **panditaa@oregonstate.edu**
+- 📫 How to reach me **panditaaman67@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aman-pandita/](https://www.linkedin.com/in/aman-pandita/)
 
