@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmanPandita](https://github.com/AmanPandita)
 
--  Visit my Profile at: www.amanpandita.com
 
 - 💬 Ask me about **Data Analysis and Data Visualization Techniques**
 
