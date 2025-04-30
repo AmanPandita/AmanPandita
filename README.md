@@ -3,14 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpandita&label=Profile%20views&color=0e75b6&style=flat" alt="amanpandita" /> </p>
 
-- 🔭 I’m currently working on [Algorithms and Data Structures](git@github.com:AmanPandita/Algorithms-and-Data-Structures.git)
+- 🔭 I’m currently working at walmart on their sparky assistant
 
-- 🌱 I’m currently learning **Graphs and Greedy Algorithm**
+- 🌱 I’m currently learning **everything**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmanPandita](https://github.com/AmanPandita)
 
 
-- 💬 Ask me about **Data Analysis and Data Visualization Techniques**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **panditaaman67@gmail.com**
 
